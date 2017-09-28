@@ -39,6 +39,4 @@ movies = [toy_story, thor_ragnarok, imitation_game, dunkirk, war_for_planet_apes
 
 fresh_tomatoes.open_movies_page(movies)
 
-#print(media.Movie.__doc__)
-#print(media.Movie.__name__)
-#print(media.Movie.__module__)
+
